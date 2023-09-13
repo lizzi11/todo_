@@ -1,0 +1,115 @@
+.welcome{
+    color:#6e341c;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 38px;
+}
+.a1{
+    font-family: 'Dosis', sans-serif;
+    border: 1px solid #6e341c;
+    color: #6e341c;
+    text-align: center;
+    margin:auto;
+    display:block;
+    width: 220px;
+    padding: 16px 54px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.a1:hover{
+     background-color:#9d6340;
+    color: #efece8;;
+    transition: 0.5s;
+}
+.img1{
+    display: block;
+    margin: auto;
+    width: 150px;
+    margin-top: 150px;
+}
+.a2{
+    font-family: 'Dosis',sans-serif;
+    text-decoration: none;
+    border: 2px solid ;
+    background-color:#9d6340;
+    color: white;
+    text-align: center;
+    padding: 17px 45px;
+}
+.a2:hover{
+     background-color:white;
+    color: #9d6340;
+    transition: 0.5s;
+}
+.td1{
+
+font-family: 'Dosis', sans-serif;
+
+}
+.img2{
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-top: 150px;
+
+}
+.form1{
+    width: 70%;;
+    margin: auto;
+    display: block;
+}
+.table{
+    margin-top: 40px
+}
+.input1{
+    border-radius: 15px;
+      padding: 15px;
+    width: 100%;
+    border: none;
+    height: 150px;
+    background-color:rgba(235, 215, 179, 0.2);
+    opacity: 0.8;
+   caret-color: black;
+}
+.input1:focus {
+     color: #070303;
+     background-color: rgba(247, 235, 205, 0.1);
+}
+.p1{
+    font-family: 'Shadows Into Light', cursive;
+    letter-spacing: 1.7px;
+    font-size: 21px;
+     color: 	#6F4E37;
+}
+
+.add{
+    font-family: 'Dosis',sans-serif;
+    border: 1px solid ;
+    border-radius: 11px;
+    background-color: 	#6F4E37;
+    color: #efece8;;
+    text-align: center;
+    padding: 13px 38px;
+    margin-top: 10px;
+}
+.add:hover{
+     background-color:#efece8;;
+    color: 	#6F4E37;
+    transition: 0.6s;
+}
+.cancel{
+    font-family: 'Dosis',sans-serif;
+    border: 1px solid ;
+    border-radius: 11px;
+    background-color: #efece8;	;
+    color:#6F4E37;
+    text-align: center;
+    padding: 16px 34px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.cancel:hover{
+      background-color: 	#6F4E37;
+    color: 	#efece8;;
+    transition: 0.6s;
+}
